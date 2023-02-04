@@ -1,2 +1,2 @@
-# C36
-DOSTO AJAO
+# synchronousBallMovement
+Ball moving synchronously
